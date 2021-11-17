@@ -2,7 +2,7 @@
 
 This repository contains various types of fonts that are used for code, design or whatever. You can participate in this repository such as (clone, fork, download or want to add your favorite font).
 
-> NOTE: This repository is not for personal or commercial use, only to share knowledge.
+> NOTE: This repository is not for personal gain, only to share knowledge.
 
 [SIL OPEN FONT LICENSE, VERSION 1.1](https://github.com/novalramdhani/code-fonts/blob/main/LICENSE)
 
