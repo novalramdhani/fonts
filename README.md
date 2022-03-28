@@ -1,10 +1,6 @@
 <h1 align="center">Amazing fonts for anyone.</h1> 
 
 <p align="center">
-  <img src="./assets/img/logo.png" alt="logo" width="300px" height="300px"/>
-</p>
-
-<p align="center">
     <a href="https://github.com/novalramdhani/code-fonts/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/novalramdhani/code-fonts"></a>
     <a href="https://github.com/novalramdhani/code-fonts/pulls"><img alt="PULL REQUEST" src="https://img.shields.io/github/issues-pr/novalramdhani/code-fonts"></a>
     <a href="https://github.com/novalramdhani/code-fonts/issues"><img alt="ISSUES" src="https://img.shields.io/github/issues/novalramdhani/code-fonts"></a>
