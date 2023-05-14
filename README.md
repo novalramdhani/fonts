@@ -15,4 +15,4 @@ Thank you for contributing to this repository! The contribution guide can be fou
 Please review and abide by the [CODE OF CONDUCT](https://github.com/novalramdhani/code-fonts/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
-This project is open-sourced software licensed under the [OFL-1.1 license](https://opensource.org/licenses/OFL-1.1).
+This project is open-sourced software licensed under the [OFL-1.1 license](https://github.com/novalramdhani/fonts/blob/main/LICENSE).
