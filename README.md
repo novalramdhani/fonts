@@ -1,4 +1,4 @@
-<h1 align="center">Amazing Fonts.</h1> 
+<h1 align="center">Fonts Collection.</h1> 
 
 <p align="center">
     <a href="https://github.com/novalramdhani/fonts/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/novalramdhani/fonts"></a>
